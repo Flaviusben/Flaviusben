@@ -3,6 +3,5 @@ logo: assets/img/Profile.jpg
 theme: jekyll-theme-minimal
 # Navigation Bar
 show_downloads: false
-# Footer Settings
-footer: "© 2025 Flavius Mihai Bendres. All Rights Reserved."
+
 
