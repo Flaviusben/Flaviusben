@@ -1,3 +1,17 @@
 title: Flavius Mihai Bendres
-logo: 
+logo: assets/img/profile.jpg 
 theme: jekyll-theme-minimal
+# Navigation Bar
+show_downloads: false
+
+github: Flaviusben
+linkedin: www.linkedin.com/in/flaviusben
+email: benfulness24@gmail.com
+
+# Footer Settings
+footer: "© 2025 Flavius Mihai Bendres. All Rights Reserved."
+
+# Collections (For Projects Section)
+collections:
+  projects:
+    output: true
