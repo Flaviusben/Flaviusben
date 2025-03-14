@@ -11,7 +11,3 @@ email: benfulness24@gmail.com
 # Footer Settings
 footer: "© 2025 Flavius Mihai Bendres. All Rights Reserved."
 
-# Collections (For Projects Section)
-collections:
-  projects:
-    output: true
