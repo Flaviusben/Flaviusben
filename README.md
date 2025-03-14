@@ -17,17 +17,29 @@
   - Extracted actionable insights from 50+ daily customer interactions, identifying user pain points to propose system improvements.
   - Diagnosed intricate hardware and software issues, creating scalable troubleshooting frameworks applicable for innovation testing and prototyping.
 
- ## Projects
- ### Machine learning: Sentiment Analysis and Topic Modelling with Latent Dirichlet Allocation (LDA)
+ ##  📊 Projects
+ ### **Machine learning: Sentiment Analysis and Topic Modelling with Latent Dirichlet Allocation (LDA)**
 
-Explored customer sentiment and feedback trends using sentiment analysis and topic modeling techniques in R. The main goal was to uncover key themes in customer reviews and analyze their impact on products satisfaction and sales.
+*Explored customer sentiment and feedback trends using sentiment analysis and topic modeling techniques in R. The main goal was to uncover key themes in customer reviews and analyze their impact on products satisfaction and sales.*
 
-✅ Sentiment Analysis: Used tidytext and the NRC and Bing lexicons to categorize customer reviews into positive and negative sentiments.
-✅ Bigram & Trigram Analysis: Identified common word pairings in reviews to extract meaningful phrases influencing sentiment.
-✅ Topic Modeling (LDA): Applied Latent Dirichlet Allocation (LDA) to discover hidden topics in customer feedback, revealing patterns related to technical issues, delivery concerns, and product satisfaction.
-✅ Predictive Modeling: Built a customer satisfaction prediction model by integrating review data, sentiment scores, and product feedback to understand factors influencing customer ratings.
+#### 🔍 **Key Insights:**  
+✅ **Sentiment Analysis:** Used `tidytext` with **NRC** and **Bing** lexicons to classify reviews as positive/negative.  
+✅ **Bigram & Trigram Analysis:** Extracted common word pairings to reveal sentiment-driving phrases.  
+✅ **Topic Modeling (LDA):** Identified hidden themes in customer feedback (e.g., **technical issues, delivery concerns, product satisfaction**).  
+✅ **Predictive Modeling:** Developed a customer satisfaction model by integrating **review sentiment, ratings, and product feedback**.  
 
-Business Impact
-📌 Identified key pain points such as technical and delivery issues, guiding actionable recommendations for product improvements.
-📌 Aligned sentiment insights with product categories, ensuring a focused analysis on high-impact product types.
-📌 Bridged the gap between exploratory analysis and predictive modeling, enhancing customer retention strategies.
+#### 📈 **Business Impact:**  
+📌 Uncovered key **pain points** such as **technical and delivery issues**, leading to actionable product improvements.  
+📌 Mapped sentiment insights to **high-impact product categories** for better targeting.  
+📌 Connected **exploratory analysis** with **predictive modeling**, enhancing customer retention strategies.  
+
+🖼️ **Visualizations:**  
+
+
+
+
+
+## 📬 Contact Me  
+📩 Email: benfulness24@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/flaviusben)  
+🔗 [GitHub](https://github.com/Flaviusben)  
