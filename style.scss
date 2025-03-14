@@ -1,1 +1,8 @@
-
+header {
+  background-image: url(/assets/Profile.jpg); /* Adjust the path if needed */
+  background-size: contain; /* Or 'cover' depending on your preference */
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px; /* Adjust the height to fit your logo */
+  text-indent: -9999px; /* Hide the default title */
+}
