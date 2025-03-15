@@ -1,5 +1,7 @@
 # My Data Scientist Portfolio
 
+#### Technical Skills: R, Excel, JMP, Power Automate
+
 ## Education
 - MSc., Business Intelligence | Aarhus University, School of Business and Social Sciences (_Summer 2025 Intake_)
 - BSc., Economics and Business Administration | Aarhus University, School of Business and Social Sciences (_September 2022_)
