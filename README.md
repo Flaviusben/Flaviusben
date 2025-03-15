@@ -32,13 +32,16 @@
 ✅ **Sentiment Analysis:** Used `tidytext` with **NRC** and **Bing** lexicons to classify reviews as positive/negative.  
 ✅ **Bigram & Trigram Analysis:** Extracted common word pairings to reveal sentiment-driving phrases.  
 ✅ **Topic Modeling (LDA):** Identified hidden themes in customer feedback (e.g., **technical issues, delivery concerns, product satisfaction**).  
-✅ **Predictive Modeling:** Developed a customer satisfaction model by integrating **review sentiment, ratings, and product feedback**.  
+✅ **Predictive Modeling:** Developed a customer satisfaction model by integrating **review sentiment, ratings, and product feedback**. (in propgress)  
 
 #### 📈 **Business Impact:**  
 📌 Uncovered key **pain points** such as **technical and delivery issues**, leading to actionable product improvements.  
 📌 Mapped sentiment insights to **high-impact product categories** for better targeting.  
 📌 Connected **exploratory analysis** with **predictive modeling**, enhancing customer retention strategies.  
 
+### **OLS Model to Evaluate the Impact of Renewable Energy Investments on Energy Prices in Romania** (in progress - as part of my Thesis)
+#### 📆 **Progress so far:**  
+![Projection Graph](/assets/img/Capture.PNG)
 
 ## 📬 Contact Me  
 📩 Email: benfulness24@gmail.com  
