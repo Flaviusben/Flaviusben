@@ -23,7 +23,7 @@
 - Diagnosed intricate hardware and software issues, creating scalable troubleshooting frameworks applicable for innovation testing and prototyping.
 
 ## 📝 Projects
-🔗 **[View Sentiment Analysis Project](/_projects/Sentiment-Analysis---Topic-Modelling.html)**
+🔗 **[View Sentiment Analysis Project](projects/Sentiment-Analysis---Topic-Modelling.html)**
 ### **Machine Learning: Sentiment Analysis and Topic Modelling with Latent Dirichlet Allocation (LDA)**
 
 *Explored customer sentiment and feedback trends using sentiment analysis and topic modeling techniques in R. The main goal was to uncover key themes in customer reviews and analyze their impact on products satisfaction and sales.*
