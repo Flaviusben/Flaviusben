@@ -43,6 +43,13 @@ The chart below shows the correlation between customer sentiment and income in t
 
 ### **Analyzing the average sea level change since 1880 and predicting sea level until 2050.**
 🔗 **[View Sea-Level-Rise Project](projects/Sea-Level-Rise.html)**
+#### **Key Takeaways**
+🌊 Historical Trend: Sea levels have risen consistently since measurements began, with an average rise of 6.29 inches per century based on historical data.
+📈 Recent Acceleration: Recent trends show a faster rise of 16.11 inches per century—2.56 times the historical average.
+📅 Projections for 2050:
+  - Based on historical data: ~10.15 inches by 2050.
+  - Based on recent trends: ~15.11 inches by 2050.
+  - Difference: 4.96 inches, highlighting the need to account for accelerating trends.
 
 ### **OLS Model to Evaluate the Impact of Renewable Energy Investments on Energy Prices in Romania** (in progress - as part of my Thesis)
 #### 📆 **Progress so far:**  
