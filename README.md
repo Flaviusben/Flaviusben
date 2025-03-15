@@ -22,7 +22,7 @@
 - Extracted actionable insights from 50+ daily customer interactions, identifying user pain points to propose system improvements.
 - Diagnosed intricate hardware and software issues, creating scalable troubleshooting frameworks applicable for innovation testing and prototyping.
 
- ## 📝 Projects
+## 📝 Projects
 
 ### **Machine Learning: Sentiment Analysis and Topic Modelling with Latent Dirichlet Allocation (LDA)**
 
