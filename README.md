@@ -41,6 +41,9 @@ The chart below shows the correlation between customer sentiment and income in t
 📌 Mapped sentiment insights to **high-impact product categories** for better targeting.  
 📌 Connected **exploratory analysis** with **predictive modeling**, enhancing customer retention strategies.  
 
+### **Analyzing the average sea level change since 1880 and predicting sea level until 2050.**
+🔗 **[View Sea-Level-Rise Project](projects/Sea-Level-Rise.html)**
+
 ### **OLS Model to Evaluate the Impact of Renewable Energy Investments on Energy Prices in Romania** (in progress - as part of my Thesis)
 #### 📆 **Progress so far:**  
 ![Projection Graph](/assets/img/Capture.PNG)
