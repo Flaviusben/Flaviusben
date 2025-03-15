@@ -33,8 +33,8 @@
 ✅ **Bigram & Trigram Analysis:** Extracted common word pairings to reveal sentiment-driving phrases.  
 ✅ **Topic Modeling (LDA):** Identified hidden themes in customer feedback (e.g., **technical issues, delivery concerns, product satisfaction**).  
 ✅ **Predictive Modeling:** Developed a customer satisfaction model by integrating **review sentiment, ratings, and product feedback**. (in propgress) 
- - The chart below shows the correlation between customer sentiment and income in the main product topics discovered through topic modeling. 
-![Revenue Impact Model](/assets/img/image.PNG)
+The chart below shows the correlation between customer sentiment and income in the main product topics discovered through topic modeling. 
+![Revenue Impact Model](/assets/img/image.png)
 
 #### 📈 **Business Impact:**  
 📌 Uncovered key **pain points** such as **technical and delivery issues**, leading to actionable product improvements.  
