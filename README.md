@@ -1,28 +1,20 @@
 # My Data Scientist Portfolio
 
-#### Technical Skills: R, Excel, JMP, Power Automate
+### 📝 Projects
+### **Projecting Romania's Electricity Prices: An Analysis of NECP Scenarios & Renewable Energy Impact** - as part of my Bachelor's Thesis
+🔗 **[View Electricity Prices Project](projects/REI-Impact-and-Electricity-Prices.html)**
 
-## Education
-- MSc., Business Intelligence | Aarhus University, School of Business and Social Sciences (_Summer 2025 Intake_)
-- BSc., Economics and Business Administration | Aarhus University, School of Business and Social Sciences (_September 2022_)
+#### 🔍 **Key Insights:**  
+✅ **Historical Price Drivers Identified:** Developed a robust log-linear OLS model (2015-2022 data) with Newey-West HAC standard errors, confirming EU ETS carbon costs and fossil fuel production levels significantly increased historical electricity prices, while wind and hydro generation had a statistically significant price-depressing effect (merit-order).
+✅ **Scenario Projections (WAM vs. WEM):** Utilized the validated historical model to project average monthly electricity prices for Romania under the NECP's 'With Existing Measures' (WEM) and 'With Additional Measures' (WAM) scenarios for 2025 and 2030. 
+✅ **WAM Shows Significant Price Advantage:**  Projections indicate the WAM scenario consistently yields lower average electricity prices compared to WEM, with the difference widening to approximately €20.1/MWh by 2030. 
+✅ **Wind Power as Key Differentiator:** WAM's projected price advantage is predominantly attributable to its significantly higher assumed deployment of wind power.
 
-## Work Experience
+#### 📈 **Real-World Impact & Policy Relevance:**  
+📌 **Quantified Economic Benefit of Ambitious RE Policy:** Provides novel quantitative evidence suggesting that pursuing the more ambitious WAM pathway, with its higher renewable energy targets, offers a potential for considerable savings on average wholesale electricity prices for Romania by 2030.
+📌 **Highlights Critical Role of Wind Deployment:** Pinpoints large-scale wind power integration as the primary quantifiable driver of WAM's projected lower price trajectory, emphasizing the importance of policies that effectively stimulate wind investments.
+📌 **Underscores Policy Stability Imperative:** While quantitatively demonstrating WAM's potential, the research (informed by qualitative literature like Marinescu, 2020) stresses that realizing these economic benefits is fundamentally contingent upon creating stable, predictable, and confidence-inspiring policy frameworks to attract the necessary large-scale RE investments. 
 
-### Student Worker | Vestas Service & Construction Academy (March 2023 - Present)
-- Designed and implemented workflow automation through Power Automate, eliminating 20% of the department’s manual processes and improving SLA by 35%.
-- Led a cross-regional capacity optimization initiative, achieving a 15% increase in resource efficiency through analytical planning methodologies.
-- Utilized advanced data analysis techniques in Microsoft 365 suite to identify operational patterns, supporting data-driven decision-making.
-
-### Technical Support Specialist | SITEL Group (November 2021 - August 2022)
-- Resolved high-priority technical issues by implementing hypothesis-driven troubleshooting methods, leading to a 40% reduction in issue resolution time.
-- Transformed customer service delivery by analyzing CRM data to reveal actionable insights, enabling a 27% increase in user satisfaction scores.
-- Mastered complex enterprise systems, including Salesforce Lightning and Classic.
-
-### Customer Support Representative | SITEL Group (August 2021 - November 2021)
-- Extracted actionable insights from 50+ daily customer interactions, identifying user pain points to propose system improvements.
-- Diagnosed intricate hardware and software issues, creating scalable troubleshooting frameworks applicable for innovation testing and prototyping.
-
-## 📝 Projects
 🔗 **[View Sentiment Analysis Project](projects/Sentiment-Analysis---Topic-Modelling.html)**
 ### **Machine Learning: Sentiment Analysis and Topic Modelling with Latent Dirichlet Allocation (LDA)**
 
@@ -52,10 +44,6 @@ The chart below shows the correlation between customer sentiment and income in t
   - 📅 Based on historical data: ~10.15 inches by 2050.
   - 📅 Based on recent trends: ~15.11 inches by 2050.
   - ✨ Difference: 4.96 inches, highlighting the need to account for accelerating trends.
-
-### **OLS Model to Evaluate the Impact of Renewable Energy Investments on Energy Prices in Romania** (in progress - as part of my Thesis)
-#### 📆 **Progress so far:**  
-![Projection Graph](/assets/img/Capture.PNG)
 
 ## 📬 Contact Me  
 📩 Email: benfulness24@gmail.com  
