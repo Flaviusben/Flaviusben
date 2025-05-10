@@ -4,17 +4,18 @@
 ### **Projecting Romania's Electricity Prices: An Analysis of NECP Scenarios & Renewable Energy Impact** - as part of my Bachelor's Thesis
 🔗 **[View Electricity Prices Project](projects/REI-Impact-and-Electricity-Prices.html)**
 
-#### 🔍 **Key Insights:**  
- ✅ **Historical Price Drivers Identified:** Developed a robust log-linear OLS model (2015-2022 data) with Newey-West HAC standard errors, confirming EU ETS carbon costs and fossil fuel production levels significantly increased historical electricity prices, while wind and hydro generation had a statistically significant price-depressing effect (merit-order).
- ✅ **Scenario Projections (WAM vs. WEM):** Utilized the validated historical model to project average monthly electricity prices for Romania under the NECP's 'With Existing Measures' (WEM) and 'With Additional Measures' (WAM) scenarios for 2025 and 2030. 
- ✅ **WAM Shows Significant Price Advantage:** Projections indicate the WAM scenario consistently yields lower average electricity prices compared to WEM, with the difference widening to approximately €20.1/MWh by 2030. 
- ✅ **Wind Power as Key Differentiator:** WAM's projected price advantage is predominantly attributable to its significantly higher assumed deployment of wind power.
+#### 🔍 **Key Insights:**
+*   ✅ **Historical Price Drivers Identified:** Developed a robust log-linear OLS model (2015-2022 data) with Newey-West HAC standard errors, confirming EU ETS carbon costs and fossil fuel production levels significantly increased historical electricity prices, while wind and hydro generation had a statistically significant price-depressing effect (merit-order).
+*   ✅ **Scenario Projections (WAM vs. WEM):** Utilized the validated historical model to project average monthly electricity prices for Romania under the NECP’s 'With Existing Measures' (WEM) and 'With Additional Measures' (WAM) scenarios for 2025 and 2030.
+*   ✅ **WAM Shows Significant Price Advantage:** Projections indicate the WAM scenario consistently yields lower average electricity prices compared to WEM, with the difference widening to approximately €20.1/MWh by 2030.
+*   ✅ **Wind Power as Key Differentiator:** WAM’s projected price advantage is predominantly attributable to its significantly higher assumed deployment of wind power.
 
-#### 📈 **Real-World Impact & Policy Relevance:**  
- 📌 **Quantified Economic Benefit of Ambitious RE Policy:** Provides novel quantitative evidence suggesting that pursuing the more ambitious WAM pathway, with its higher renewable energy targets, offers a potential for considerable savings on average wholesale electricity prices for Romania by 2030.
- 📌 **Highlights Critical Role of Wind Deployment:** Pinpoints large-scale wind power integration as the primary quantifiable driver of WAM's projected lower price trajectory, emphasizing the importance of policies that effectively stimulate wind investments.
- 📌 **Underscores Policy Stability Imperative:** While quantitatively demonstrating WAM's potential, the research (informed by qualitative literature like Marinescu, 2020) stresses that realizing these economic benefits is fundamentally contingent upon creating stable, predictable, and confidence-inspiring policy frameworks to attract the necessary large-scale RE investments. 
+#### 📈 **Real-World Impact & Policy Relevance:**
+*   📌 **Quantified Economic Benefit of Ambitious RE Policy:** Provides novel quantitative evidence suggesting that pursuing the more ambitious WAM pathway, with its higher renewable energy targets, offers a potential for considerable savings on average wholesale electricity prices for Romania by 2030.
+*   📌 **Highlights Critical Role of Wind Deployment:** Pinpoints large-scale wind power integration as the primary quantifiable driver of WAM’s projected lower price trajectory, emphasizing the importance of policies that effectively stimulate wind investments.
+*   📌 **Underscores Policy Stability Imperative:** While quantitatively demonstrating WAM’s potential, the research (informed by qualitative literature like Marinescu, 2020) stresses that realizing these economic benefits is fundamentally contingent upon creating stable, predictable, and confidence-inspiring policy frameworks to attract the necessary large-scale RE investments.
 
+  
 🔗 **[View Sentiment Analysis Project](projects/Sentiment-Analysis---Topic-Modelling.html)**
 ### **Machine Learning: Sentiment Analysis and Topic Modelling with Latent Dirichlet Allocation (LDA)**
 
