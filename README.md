@@ -26,15 +26,13 @@
 ✅ **Bigram & Trigram Analysis:** Extracted common word pairings to reveal sentiment-driving phrases.  
 ✅ **Topic Modeling (LDA):** Identified hidden themes in customer feedback (e.g., **technical issues, delivery concerns, product satisfaction**).  
 ✅ **Predictive Modeling:** Developed a customer satisfaction model by integrating **review sentiment, ratings, and product feedback**. (in propgress) 
-The chart below shows the correlation between customer sentiment and income in the main product topics discovered through topic modeling. 
-![Revenue Impact Model](/assets/img/image.png)
 
 #### 📈 **Business Impact:**  
 📌 Uncovered key **pain points** such as **technical and delivery issues**, leading to actionable product improvements.  
 📌 Mapped sentiment insights to **high-impact product categories** for better targeting.  
 📌 Connected **exploratory analysis** with **predictive modeling**, enhancing customer retention strategies.  
 
-### **Analyzing the average sea level change since 1880 and predicting sea level until 2050.**
+### **Analyzing the average sea level change since 1880 and predicting sea level until 2050 using R.**
 🔗 **[View Sea-Level-Rise Project](projects/Sea-Level-Rise.html)**
 #### **Key Takeaways:**
 - **Historical Trend**:
@@ -44,7 +42,10 @@ The chart below shows the correlation between customer sentiment and income in t
 - **Projections for 2050**:
   - 📅 Based on historical data: ~10.15 inches by 2050.
   - 📅 Based on recent trends: ~15.11 inches by 2050.
-  - ✨ Difference: 4.96 inches, highlighting the need to account for accelerating trends.
+  - Difference: 4.96 inches, highlighting the need to account for accelerating trends.
+
+#### **Same Project using Python**
+🔗 **[View Sea-Level-Rise Project](projects/Sea_Level_Rise.html)**
 
 ## 📬 Contact Me  
 📩 Email: benfulness24@gmail.com  
