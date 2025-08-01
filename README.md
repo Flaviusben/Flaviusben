@@ -51,4 +51,3 @@
 📩 Email: benfulness24@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/flaviusben)  
 🔗 [GitHub](https://github.com/Flaviusben)  
-🔗 [Data Analysis With Python]([https://github.com/Flaviusben](https://www.freecodecamp.org/certification/fccadd50d73-6070-4da8-aabd-2e83300b110d/data-analysis-with-python-v7))  
