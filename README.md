@@ -34,7 +34,8 @@
 
 ### **Building a Dashboard in Excel**
 📊 [Download the Excel Dashboard](projects/Excel_Project_Dashboard.xlsx)
-*Explored bike sales per region and customers*
+
+  *Explored bike sales per region and customers*
 
 ## 📬 Contact Me  
 📩 Email: benfulness24@gmail.com  
