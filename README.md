@@ -30,6 +30,11 @@
 📊 [Download the Excel Dashboard](projects/Excel_Project_Dashboard.xlsx)
 
   *Explored bike sales per region and customers*
+  
+### **Building a Dashboard in Power BI**
+📊 [The Dashboard Link](projects/Power_BI_Survey_Dashboard.pbix)
+
+  *Used basic data modelling and visualizaion to create a breakdown of Data Professionals' salary*
 
 ## 📬 Contact Me  
 📩 Email: benfulness24@gmail.com  
