@@ -36,6 +36,9 @@
 
   *Used basic data modelling and visualizaion to create a breakdown of Data Professionals' salary*
 
+### **Customer Base Audit**
+Building [customer-base-audit](https://github.com/Flaviusben/customer-base-audit) — CLV analytics that validates its own assumptions.
+
 ## 📬 Contact Me  
 📩 Email: benfulness24@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/flaviusben)  
