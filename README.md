@@ -1,5 +1,18 @@
 # My Data Analyst Portfolio
 
+## 🚀 Currently Building
+
+Building [**customer-base-audit**](https://github.com/Flaviusben/customer-base-audit) — CLV analytics that validates its own assumptions.
+
+**What I've Done:**
+- ✅ Ingestion gate for data validation
+- ✅ Data-quality diagnostics & anomaly detection
+- ✅ Contractual auto-detection
+- ✅ Customer Lifetime Value (CLV) scoring with BG/NBD + Gamma-Gamma model
+- ✅ Executive briefing dashboard (HTML)
+
+---
+
 ### 📝 Projects
 ### **Projecting Romania's Electricity Prices: An Analysis of NECP Scenarios & Renewable Energy Impact** - as part of my Bachelor's Thesis
 🔗 **[View Electricity Prices Project](projects/REI-Impact-and-Electricity-Prices.html)**
@@ -35,9 +48,6 @@
 📊 [The Dashboard Link](projects/Power_BI_Survey_Dashboard.pbix)
 
   *Used basic data modelling and visualizaion to create a breakdown of Data Professionals' salary*
-
-### **Customer Base Audit**
-Building [customer-base-audit](https://github.com/Flaviusben/customer-base-audit) — CLV analytics that validates its own assumptions.
 
 ## 📬 Contact Me  
 📩 Email: benfulness24@gmail.com  
