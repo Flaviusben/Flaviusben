@@ -1,15 +1,16 @@
 # My Data Analyst Portfolio
 
-## 🚀 Currently Building
+## Currently Building
 
 Building [**customer-base-audit**](https://github.com/Flaviusben/customer-base-audit) — CLV analytics that validates its own assumptions.
 
+Unlike naive text-to-SQL utilities or cookie-cutter analytics dashboards that blindly fit models to invalid data, this system encodes **Judgment-as-Code**. It acts as an automated methodology gate—interrogating data anomalies, checking structural assumptions, and catching model violations (such as the frequency-spend correlation on academic benchmarks) before generating executive insights.
+
 **What I've Done:**
-- ✅ Ingestion gate for data validation
-- ✅ Data-quality diagnostics & anomaly detection
-- ✅ Contractual auto-detection
-- ✅ Customer Lifetime Value (CLV) scoring with BG/NBD + Gamma-Gamma model
-- ✅ Executive briefing dashboard (HTML)
+- **Ingestion Gate & Fuzzy Mapping:** Fuzzy-matches messy, unvetted transaction CSV headers to canonical RFM matrices.
+- **Contractual Auto-Detection:** Interrogates purchase cadence and price variance to auto-detect business models, executing a hard-refuse path if contractual (subscription) data tries to enter a non-contractual (BG/NBD) pipeline.
+- **Probabilistic CLV & Segmentation Scoring:** Fits BG/NBD and Gamma-Gamma models to output 12-month value forecasts, P(alive) scores, and Stobachoff concentration metrics.
+- **Executive Synthesis:** Generates a boardroom-ready HTML brief that maps out a 4-quadrant strategic asset framework while programmatically embedding methodology warnings in the footer.
 
 ---
 
