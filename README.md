@@ -1,8 +1,7 @@
 # My Data Analyst Portfolio
 
 ## Currently Building
-
-Building [**customer-base-audit**](https://github.com/Flaviusben/customer-base-audit) — CLV analytics that validates its own assumptions.
+(https://github.com/Flaviusben/customer-base-audit) — CLV analytics that validates its own assumptions.
 
 Unlike naive text-to-SQL utilities or cookie-cutter analytics dashboards that blindly fit models to invalid data, this system encodes **Judgment-as-Code**. It acts as an automated methodology gate—interrogating data anomalies, checking structural assumptions, and catching model violations (such as the frequency-spend correlation on academic benchmarks) before generating executive insights.
 
